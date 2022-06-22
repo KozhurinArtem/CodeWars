@@ -1,0 +1,1 @@
+Given the start and end letterbox numbers, write a method to return the frequency of all 10 digits painted.
